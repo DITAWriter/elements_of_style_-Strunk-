@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_fmx_kfh_cfb">
+    <title>Quotations</title>
+    <shortdesc>Formal quotations, cited as documentary evidence, are introduced by a colon and
+        enclosed in quotation marks.</shortdesc>
+    <conbody>
+        <lq>The provision of the Constitution is: <q>No tax or duty shall be laid on articles
+                exported from any state.</q>
+        </lq>
+        <p>Quotations grammatically in apposition or the direct objects of verbs are preceded by a
+            comma and enclosed in quotation marks. </p>
+        <lq>I recall the maxim of La Rochefoucauld, <q>Gratitude is a lively sense of benefits to
+                come.</q>
+        </lq>
+        <lq>Aristotle says, <q>Art is an imitation of nature.</q></lq>
+        <p> Quotations of an entire line, or more, of verse, are begun on a fresh line and centered,
+            but need not be enclosed in quotation marks.</p>
+        <lq>Wordsworth's enthusiasm for the Revolution was at first unbounded:</lq>
+        <lq>Bliss was it in that dawn to be alive, But to be young was very heaven!</lq>
+        <p>Quotations introduced by that are regarded as in indirect discourse and not enclosed in
+            quotation marks.</p>
+        <lq>Keats declares that beauty is truth, truth beauty. </lq>
+        <p>Proverbial expressions and familiar phrases of literary origin require no quotation
+            marks.</p>
+        <lq>These are the times that try men's souls.</lq>
+        <lq>He lives far from the madding crowd.</lq>
+        <p>The same is true of colloquialisms and slang.</p>
+    </conbody>
+</concept>

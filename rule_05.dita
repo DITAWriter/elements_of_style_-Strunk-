@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cfx_gt4_z2b">
+    <title>Rule 5</title>
+    <shortdesc>Do not join independent clauses by a comma.</shortdesc>
+    <conbody>
+        <p>If two or more clauses, grammatically complete and not joined by a conjunction, are to
+            form a single compound sentence, the proper mark of punctuation is a semicolon.</p>
+        <lq> Stevenson's romances are entertaining; they are full of exciting adventures.</lq>
+        <lq> It is nearly half past five; we cannot reach town before dark. </lq>
+        <p>It is of course equally correct to write the above as two sentences each, replacing the
+            semicolons by periods.</p>
+        <lq> Stevenson's romances are entertaining. They are full of exciting adventures. </lq>
+        <lq> It is nearly half past five. We cannot reach town before dark.</lq>
+        <p>If a conjunction is inserted the proper mark is a comma (<xref href="rule_04.dita"
+                >Rule 4</xref>).</p>
+        <lq> Stevenson's romances are entertaining, for they are full of exciting adventures.</lq>
+        <lq>It is nearly half past five, and we cannot reach town before dark.</lq>
+        <p>A comparison of the three forms given above will show clearly the advantage of the first.
+            It is, at least in the examples given, better than the second form, because it suggests
+            the close relationship between the two statements in a way that the second does not
+            attempt, and better than the third, because briefer and therefore more forcible. Indeed
+            it may be said that this simple method of indicating relationship between statements is
+            one of the most useful devices of composition. The relationship, as above, is commonly
+            one of cause or of consequence.</p>
+        <p>Note that if the second clause is preceded by an adverb, such as <i>accordingly</i>,
+                <i>besides</i>, <i>then</i>, <i>therefore</i>, or <i>thus</i>, and not by a
+            conjunction, the semicolon is still required.</p>
+        <p>Two exceptions to the rule may be admitted. If the clauses are very short, and are alike
+            in form, a comma is usually permissible:</p>
+        <lq> Man proposes, God disposes. </lq>
+        <lq>The gate swung apart, the bridge fell, the portcullis was drawn up.</lq>
+        <p>Note that in these examples the relation is not one of cause or consequence. Also in the
+            colloquial form of expression,</p>
+        <lq> I hardly knew him, he was so changed, </lq>
+        <p>a comma, not a semicolon, is required. But this form of expression is inappropriate in
+            writing, except in the dialogue of a story or play, or perhaps in a familiar letter.</p>
+    </conbody>
+</concept>

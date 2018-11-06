@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="case">
+    <glossterm>Case</glossterm>
+    <glossdef>The Concise Oxford Dictionary begins its definition of this word: “instance of a
+        thing's occurring; usual state of affairs.” In these two senses, the word is usually
+            unnecessary.<simpletable frame="all" relcolwidth="1* 1*" id="simpletable_zzb_qrh_cfb">
+            <strow>
+                <stentry>In many cases, the rooms were poorly ventilated.</stentry>
+                <stentry>Many of the rooms were poorly ventilated.</stentry>
+            </strow>
+            <strow>
+                <stentry>It has rarely been the case that any mistake has been made.</stentry>
+                <stentry>Few mistakes have been made.</stentry>
+            </strow>
+        </simpletable>
+        <p>See Wood, <cite>Suggestions to Authors</cite>, pp. 68–71, and Quiller-Couch, <cite>The Art of Writing</cite>,
+            pp. 103–106.</p></glossdef>
+</glossentry>

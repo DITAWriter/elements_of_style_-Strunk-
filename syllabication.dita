@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_zvc_2hh_cfb">
+    <title>Syllabication</title>
+    <shortdesc>If there is room at the end of a line for one or more syllables of a word, but not
+        for the whole word, divide the word, unless this involves cutting off only a single letter,
+        or cutting off only two letters of a long word.</shortdesc>
+    <conbody>
+        <p>No hard and fast rule for all words can be laid down. The principles most frequently
+            applicable are:</p>
+        <ol>
+            <li>Divide the word according to its formation: <p>know-ledge (not knowl-edge);
+                    Shake-speare (not Shakes-peare); de-scribe (not des-cribe); atmo-sphere (not
+                    atmos-phere);</p></li>
+            <li>Divide “on the vowel: <p>”edi-ble (not ed-ible); propo-sition; ordi-nary; espe-cial;
+                    reli-gious; oppo-nents; regu-lar; classi-fi-ca-tion (three divisions allowable);
+                    deco-rative; presi-dent;</p></li>
+            <li>Divide between double letters, unless they come at the end of the simple form of the
+                    word:<p>Apen-nines; Cincin-nati; refer-ring; but tell-ing.</p></li>
+            <li>Do not divide before final -ed if the e is silent:<p>treat-ed (but not roam-ed or
+                    nam-ed).</p>
+                <p>The treatment of consonants in combination is best shown from examples:</p>
+                <lines>
+                    for-tune; pic-ture; sin-gle; presump-tuous; illus-tration; sub-stan-tial
+                    (either division); indus-try; instruc-tion; sug-ges-tion; incen-diary.
+                    </lines>
+                <p>The student will do well to examine the syllable-division in a number of pages of
+                    any carefully printed book.</p>
+            </li>
+        </ol>
+    </conbody>
+</concept>

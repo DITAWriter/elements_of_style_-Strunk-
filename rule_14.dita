@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cfx_gt4_z2b">
+    <title>Rule 14</title>
+    <shortdesc>Avoid a succession of loose sentences.</shortdesc>
+    <conbody>
+        <p>This rule refers especially to loose sentences of a particular type, those consisting of
+            two co-ordinate clauses, the second introduced by a conjunction or relative. Although
+            single sentences of this type may be unexceptionable (see under <xref
+                href="rule_04.dita">Rule 4</xref>), a series soon becomes monotonous and
+            tedious.</p>
+        <p>An unskilful writer will sometimes construct a whole paragraph of sentences of this kind,
+            using as connectives <i>and</i>, <i>but</i>, <i>so</i>, and less frequently, <i>who</i>,
+                <i>which</i>, <i>when</i>, <i>where</i>, and <i>while</i>, these last in
+            non-restrictive senses (see under <xref href="rule_03.dita">Rule 3</xref>).</p>
+        <p> The third concert of the subscription series was given last evening, and a large
+            audience was in attendance. Mr. Edward Appleton was the soloist, and the Boston Symphony
+            Orchestra furnished the instrumental music. The former showed himself to be an artist of
+            the first rank, while the latter proved itself fully deserving of its high reputation.
+            The interest aroused by the series has been very gratifying to the Committee, and it is
+            planned to give a similar series annually hereafter. The fourth concert will be given on
+            Tuesday, May 10, when an equally attractive programme will be presented.</p>
+        <p>Apart from its triteness and emptiness, the paragraph above is weak because of the
+            structure of its sentences, with their mechanical symmetry and sing-song. Contrast with
+            them the sentences in the paragraphs quoted under <xref href="rule_09.dita" format="dita"
+                >Rule 9</xref>, or in any piece of good English prose, as the preface (Before the
+            Curtain) to <cite>Vanity Fair</cite>.</p>
+        <p>If the writer finds that he has written a series of sentences of the type described, he
+            should recast enough of them to remove the monotony, replacing them by simple sentences,
+            by sentences of two clauses joined by a semicolon, by periodic sentences of two clauses,
+            by sentences, loose or periodic, of three clauses—whichever best represent the real
+            relations of the thought.</p>
+    </conbody>
+</concept>

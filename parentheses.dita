@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_nwf_ffh_cfb">
+    <title>Parentheses</title>
+    <shortdesc>A sentence containing an expression in parenthesis is punctuated, outside of the
+        marks of parenthesis, exactly as if the expression in parenthesis were absent.</shortdesc>
+    <conbody>
+        <p>The expression within is punctuated as if it stood by itself, except that the final stop
+            is omitted unless it is a question mark or an exclamation point.</p>
+        <lq>I went to his house yesterday (my third attempt to see him), but he had left town.</lq>
+        <lq>He declares (and why should we doubt his good faith?) that he is now certain of
+            success.</lq>
+        <p>(When a wholly detached expression or sentence is parenthesized, the final stop comes
+            before the last mark of parenthesis.)</p>
+    </conbody>
+</concept>

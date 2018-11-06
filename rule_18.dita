@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cfx_gt4_z2b">
+    <title>Rule 18</title>
+    <shortdesc>Place the emphatic words of a sentence at the end.</shortdesc>
+    <conbody>
+        <p>The proper place in the sentence for the word, or group of words, which the writer
+            desires to make most prominent is usually the end.</p>
+        <table outputclass="example" id="table_gzm_bvg_cfb">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first"
+                            >Humanity has hardly advanced in fortitude since that time, though it
+                            has advanced in many other ways.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >Humanity, since that time, has advanced in many other ways, but it has
+                            hardly advanced in fortitude.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">This
+                            steel is principally used for making razors, because of its
+                            hardness.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >Because of its hardness, this steel is principally used in making
+                            razors.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>The word or group of words entitled to this position of prominence is usually the logical
+            predicate, that is, the <i>new</i> element in the sentence, as it is in the second
+            example.</p>
+        <p>The effectiveness of the periodic sentence arises from the prominence which it gives to
+            the main statement.</p>
+        <lq> Four centuries ago, Christopher Columbus, one of the Italian mariners whom the decline
+            of their own republics had put at the service of the world and of adventure, seeking for
+            Spain a westward passage to the Indies as a set-off against the achievements of
+            Portuguese discoverers, lighted on America. </lq>
+        <lq>With these hopes and in this belief I would urge you, laying aside all hindrance,
+            thrusting away all private aims, to devote yourself unswervingly and unflinchingly to
+            the vigorous and successful prosecution of this war.</lq>
+        <p>The other prominent position in the sentence is the beginning. Any element in the
+            sentence, other than the subject, may become emphatic when placed first.</p>
+        <lq>Deceit or treachery he could never forgive.</lq>
+        <lq>So vast and rude, fretted by the action of nearly three thousand years, the fragments of
+            this architecture may often seem, at first sight, like works of nature.</lq>
+        <p>A subject coming first in its sentence may be emphatic, but hardly by its position alone.
+            In the sentence,</p>
+        <lq>
+            Great kings worshipped at his shrine,
+        </lq>
+        <p>the emphasis upon <i>kings</i> arises largely from its meaning and from the context. To
+            receive special emphasis, the subject of a sentence must take the position of the
+            predicate.</p>
+        <lq>
+            Through the middle of the valley flowed a winding stream.
+        </lq>
+        <p>The principle that the proper place for what is to be made most prominent is the end
+            applies equally to the words of a sentence, to the sentences of a paragraph, and to the
+            paragraphs of a composition.</p>
+    </conbody>
+</concept>

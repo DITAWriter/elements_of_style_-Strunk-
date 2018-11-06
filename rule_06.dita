@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cfx_gt4_z2b">
+    <title>Rule 6</title>
+    <shortdesc>Do not break sentences in two.</shortdesc>
+    <conbody>
+        <p>In other words, do not use periods for commas.</p>
+        <lq> I met them on a Cunard liner several years ago. Coming home from Liverpool to New
+            York.</lq>
+        <lq> He was an interesting talker. A man who had traveled all over the world and lived in
+            half a dozen countries. </lq>
+        <p>In both these examples, the first period should be replaced by a comma, and the following
+            word begun with a small letter.</p>
+        <p>It is permissible to make an emphatic word or expression serve the purpose of a sentence
+            and to punctuate it accordingly:</p>
+        <lq> Again and again he called out. No reply. </lq>
+        <p>The writer must, however, be certain that the emphasis is warranted, and that he will not
+            be suspected of a mere blunder in syntax or in punctuation.</p>
+        <p>Rules <xref href="rule_03.dita">3</xref>, <xref href="rule_04.dita">4</xref>, <xref
+                href="rule_05.dita">5</xref>, and <xref href="rule_06.dita">6</xref> cover the most
+            important principles in the punctuation of ordinary sentences; they should be so
+            thoroughly mastered that their application becomes second nature.</p>
+    </conbody>
+</concept>

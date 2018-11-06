@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Elements of Style</mainbooktitle>
+    </booktitle>
+    <bookmeta>
+        <author>William Strunk, Jr.</author>
+        <bookrights>
+            <bookowner>
+                <organization>Project Gutenberg</organization>
+                <organization>DITAWriter.com</organization>
+            </bookowner>
+        </bookrights>
+    </bookmeta>
+    <frontmatter/>
+    <!--
+    <frontmatter collection-type="sequence">
+        <mapref href="keystore.map" processing-role="resource-only"/>
+        <topicref href="front.dita" type="topic" format="dita"/>
+        <booklists>
+            <toc/>
+        </booklists>
+    </frontmatter>        
+-->
+    <chapter href="introductory.dita"/>
+    <chapter href="elementary_rules_of_usage.dita">
+        <topicref href="rule_01.dita"/>
+        <topicref href="rule_02.dita"/>
+        <topicref href="rule_03.dita"/>
+        <topicref href="rule_04.dita"/>
+        <topicref href="rule_05.dita"/>
+        <topicref href="rule_06.dita"/>
+        <topicref href="rule_07.dita"/>
+    </chapter>        
+    <chapter href="elementary_principles_of_composition.dita">        
+        <topicref href="rule_08.dita"/>
+        <topicref href="rule_09.dita"/>
+        <topicref href="rule_10.dita"/>
+        <topicref href="rule_11.dita"/>
+        <topicref href="rule_12.dita"/>
+        <topicref href="rule_13.dita"/>
+        <topicref href="rule_14.dita"/>
+        <topicref href="rule_15.dita"/>
+        <topicref href="rule_16.dita"/>
+        <topicref href="rule_17.dita"/>
+        <topicref href="rule_18.dita"/>
+    </chapter>
+
+    <chapter href="a_few_matters_of_form.dita">
+        <topicref href="headings.dita"/>
+        <topicref href="numerals.dita"/>
+        <topicref href="parentheses.dita"/>
+        <topicref href="quotations.dita"/>
+        <topicref href="references.dita"/>
+        <topicref href="syllabication.dita"/>
+        <topicref href="titles.dita"/>
+    </chapter>
+
+    <chapter navtitle="Words and Expressions Commonly Misused" locktitle="yes">
+        <mapref format="ditamap" href="words_and_expressions_commonly_misused.map"
+            collection-type="sequence"/>
+    </chapter>
+
+    <chapter href="spelling.dita">
+        <topicref href="words_often_misspelled.dita"/>
+    </chapter>
+
+    <chapter href="exercises_on_chapters_two_and_three.dita">
+        <topicref href="punctuate.dita"/>
+        <topicref href="explain_the_difference_in_meaning.dita"/>
+        <topicref href="explain_and_correct_the_errors_in_punctuation.dita"/>
+        <topicref href="point_out_and_correct_the_faults_in_the_following_sentences.dita"/>
+    </chapter>
+
+
+</bookmap>

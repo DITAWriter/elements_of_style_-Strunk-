@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cfx_gt4_z2b">
+    <title>Rule 12</title>
+    <shortdesc>Use definite, specific, concrete language.</shortdesc>
+    <conbody>
+        <p>Prefer the specific to the general, the definite to the vague, the concrete to the
+            abstract.</p>
+        <table outputclass="example" id="table_yjq_1k3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">A
+                            period of unfavorable weather set in.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">It
+                            rained every day for a week.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">He
+                            showed satisfaction as he took possession of his well-earned
+                            reward.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">He
+                            grinned as he pocketed the coin.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">There
+                            is a general agreement among those who have enjoyed the experience that
+                            surf-riding is productive of great exhilaration.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">All
+                            who have tried surf-riding agree that it is most exhilarating.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>If those who have studied the art of writing are in accord on any one point, it is on
+            this, that the surest method of arousing and holding the attention of the reader is by
+            being specific, definite, and concrete. Critics have pointed out how much of the
+            effectiveness of the greatest writers, Homer, Dante, Shakespeare, results from their
+            constant definiteness and concreteness. Browning, to cite a more modern author, affords
+            many striking examples. Take, for instance, the lines from <cite>My Last Duchess</cite>, </p>
+        <lines>
+        Sir, 'twas all one! My favour at her breast, The dropping of the
+        daylight in the west, The bough of cherries some officious fool 
+        Broke in the orchard for her, the white mule 
+        She rode with round the terrace—all and each 
+        Would draw from her alike the approving speech, 
+        Or blush, at least, 
+        </lines>
+        <p> and those which end the poem, </p>
+        <lines>
+        Notice Neptune, though, 
+        Taming a sea-horse, thought a rarity, 
+        Which Claus of Innsbruck cast in bronze for me. 
+        </lines>
+        <p> These words call up pictures. Recall how in <cite>The Bishop Orders his Tomb in St.
+                Praxed's Church</cite> “the Renaissance spirit—its worldliness, inconsistency,
+            pride, hypocrisy, ignorance of itself, love of art, of luxury, of good Latin,” to quote
+            Ruskin's comment on the poem, is made manifest in specific details and in concrete
+            terms.</p>
+        <p>Prose, in particular narrative and descriptive prose, is made vivid by the same means. If
+            the experiences of Jim Hawkins and of David Balfour, of Kim, of Nostromo, have seemed
+            for the moment real to countless readers, if in reading Carlyle we have almost the sense
+            of being physically present at the taking of the Bastille, it is because of the
+            definiteness of the details and the concreteness of the terms used. It is not that every
+            detail is given; that would be impossible, as well as to no purpose; but that all the
+            significant details are given, and not vaguely, but with such definiteness that the
+            reader, in imagination, can project himself into the scene.</p>
+        <p>In exposition and in argument, the writer must likewise never lose his hold upon the
+            concrete, and even when he is dealing with general principles, he must give particular
+            instances of their application.</p>
+        <p>“This superiority of specific expressions is clearly due to the effort required to
+            translate words into thoughts. As we do not think in generals, but in particulars—as
+            whenever any class of things is referred to, we represent it to ourselves by calling to
+            mind individual members of it, it follows that when an abstract word is used, the hearer
+            or reader has to choose, from his stock of images, one or more by which he may figure to
+            himself the genus mentioned. In doing this, some delay must arise, some force be
+            expended; and if by employing a specific term an appropriate image can be at once
+            suggested, an economy is achieved, and a more vivid impression produced.”</p>
+        <p>Herbert Spencer, from whose <cite>Philosophy of Style</cite> the preceding paragraph is
+            quoted, illustrates the principle by the sentences:</p>
+        <table outputclass="example" id="table_zjq_1k3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">In
+                            proportion as the manners, customs, and amusements of a nation are cruel
+                            and barbarous, the regulations of their penal code will be
+                            severe.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">In
+                            proportion as men delight in battles, bull-fights, and combats of
+                            gladiators, will they punish by hanging, burning, and the rack.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

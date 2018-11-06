@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cfx_gt4_z2b">
+    <title>Rule 15</title>
+    <shortdesc>Express co-ordinate ideas in similar form.</shortdesc>
+    <conbody>
+        <p>This principle, that of parallel construction, requires that expressions of similar
+            content and function should be outwardly similar. The likeness of form enables the
+            reader to recognize more readily the likeness of content and function. Familiar
+            instances from the Bible are the Ten Commandments, the Beatitudes, and the petitions of
+            the Lord's Prayer.</p>
+        <p>The unskillful writer often violates this principle, from a mistaken belief that he
+            should constantly vary the form of his expressions. It is true that in repeating a
+            statement in order to emphasize it he may have need to vary its form. For illustration,
+            see the paragraph from Stevenson quoted under Rule 9. But apart from this, he should
+            follow the principle of parallel construction.</p>
+        <table outputclass="example" id="table_nwn_ck3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first"
+                            >Formerly, science was taught by the textbook method, while now the
+                            laboratory method is employed.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >Formerly, science was taught by the textbook method; now it is taught
+                            by the laboratory method.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>The left-hand version gives the impression that the writer is undecided or timid; he
+            seems unable or afraid to choose one form of expression and hold to it. The right-hand
+            version shows that the writer has at least made his choice and abided by it.</p>
+        <p>By this principle, an article or a preposition applying to all the members of a series
+            must either be used only before the first term or else be repeated before each term.</p>
+        <table outputclass="example" id="table_own_ck3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">The
+                            French, the Italians, Spanish, and Portuguese</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">The
+                            French, the Italians, the Spanish, and the Portuguese</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">In
+                            spring, summer, or in winter</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">In
+                            spring, summer, or winter (In spring, in summer, or in winter)</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>Correlative expressions (<i>both, and</i>; <i>not, but</i>; <i>not only, but also</i>;
+                <i>either, or</i>; <i>first, second, third</i>; and the like) should be followed by
+            the same grammatical construction, that is, virtually, by the same part of speech. (Such
+            combinations as “both Henry and I,” “not silk, but a cheap substitute,” are obviously
+            within the rule.) Many violations of this rule (as the first three below) arise from
+            faulty arrangement; others (as the last) from the use of unlike constructions.</p>
+        <table outputclass="example" id="table_pwn_ck3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">It was
+                            both a long ceremony and very tedious.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">The
+                            ceremony was both long and tedious.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">A time
+                            not for words, but action.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">A time
+                            not for words, but for action.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">Either
+                            you must grant his request or incur his ill will.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">You
+                            must either grant his request or incur his ill will.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">My
+                            objections are, first, the injustice of the measure; second, that it is
+                            unconstitutional.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">My
+                            objections are, first, that the measure is unjust; second, that it is
+                            unconstitutional.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>See also the third example under <xref href="rule_01.dita">Rule 12</xref> and the last
+            under <xref href="rule_01.dita">Rule 13</xref>.</p>
+        <p>It may be asked, what if a writer needs to express a very large number of similar ideas,
+            say twenty? Must he write twenty consecutive sentences of the same pattern? On closer
+            examination he will probably find that the difficulty is imaginary, that his twenty
+            ideas can be classified in groups, and that he need apply the principle only within each
+            group. Otherwise he had best avoid difficulty by putting his statements in the form of a
+            table.</p>
+    </conbody>
+</concept>

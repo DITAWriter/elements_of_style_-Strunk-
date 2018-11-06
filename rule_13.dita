@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cfx_gt4_z2b">
+    <title>Rule 13</title>
+    <shortdesc>Omit needless words.</shortdesc>
+    <conbody>
+        <p>Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph
+            no unnecessary sentences, for the same reason that a drawing should have no unnecessary
+            lines and a machine no unnecessary parts. This requires not that the writer make all his
+            sentences short, or that he avoid all detail and treat his subjects only in outline, but
+            that he make every word tell.</p>
+        <p>Many expressions in common use violate this principle:</p>
+        <table outputclass="example" id="table_kc3_bk3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">the
+                            question as to whether</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >whether (the question whether)</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">there
+                            is no doubt but that</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">no
+                            doubt (doubtless)</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">used
+                            for fuel purposes</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">used
+                            for fuel</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">he is a
+                            man who</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >he</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">in a
+                            hasty manner</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >hastily</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">this is
+                            a subject which</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">this
+                            subject</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">His
+                            story is a strange one.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">His
+                            story is strange.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>In especial the expression <i>the fact that</i> should be revised out of every sentence
+            in which it occurs.</p>
+        <table outputclass="example" id="table_lc3_bk3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">owing
+                            to the fact that</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">since
+                            (because)</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">in
+                            spite of the fact that</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">though
+                            (although)</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">call
+                            your attention to the fact that</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">remind
+                            you (notify you)</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">I was
+                            unaware of the fact that</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">I was
+                            unaware that (did not know)</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">the
+                            fact that he had not succeeded</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">his
+                            failure</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">the
+                            fact that I had arrived</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">my
+                            arrival</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>See also under <i>case</i>, <i>character</i>, <i>nature</i>, <i>system</i> in <xref
+                href="a_few_matters_of_form.dita">Chapter V</xref>.</p>
+        <p>
+            <i>Who is</i>, <i>which was</i>, and the like are often superfluous.</p>
+        <table outputclass="example" id="table_mc3_bk3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">His
+                            brother, who is a member of the same firm</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">His
+                            brother, a member of the same firm</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first"
+                            >Trafalgar, which was Nelson's last battle</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >Trafalgar, Nelson's last battle</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>As positive statement is more concise than negative, and the active voice more concise
+            than the passive, many of the examples given under Rules <xref href="rule_01.dita"
+                >11</xref> and <xref href="rule_01.dita">12</xref> illustrate this rule as well.</p>
+        <p>A common violation of conciseness is the presentation of a single complex idea, step by
+            step, in a series of sentences or independent clauses which might to advantage be
+            combined into one.</p>
+        <table outputclass="example" id="table_nc3_bk3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">Macbeth
+                            was very ambitious. This led him to wish to become king of Scotland. The
+                            witches told him that this wish of his would come true. The king of
+                            Scotland at this time was Duncan. Encouraged by his wife, Macbeth
+                            murdered Duncan. He was thus enabled to succeed Duncan as king. (51
+                            words.)</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >Encouraged by his wife, Macbeth achieved his ambition and realized the
+                            prediction of the witches by murdering Duncan and becoming king of
+                            Scotland in his place. (26 words.)</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">There
+                            were several less important courses, but these were the most important,
+                            and although they did not come every day, they came often enough to keep
+                            you in such a state of mind that you never knew what your next move
+                            would be. (43 words.)</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">These,
+                            the most important courses of all, came, if not daily, at least often
+                            enough to keep one under constant strain. (21 words.)</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

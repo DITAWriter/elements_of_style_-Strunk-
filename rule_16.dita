@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cfx_gt4_z2b">
+    <title>Rule 16</title>
+    <shortdesc>Keep related words together.</shortdesc>
+    <conbody>
+        <p>The position of the words in a sentence is the principal means of showing their
+            relationship. The writer must therefore, so far as possible, bring together the words,
+            and groups of words, that are related in thought, and keep apart those which are not so
+            related.</p>
+        <p>The subject of a sentence and the principal verb should not, as a rule, be separated by a
+            phrase or clause that can be transferred to the beginning.</p>
+        <table outputclass="example" id="table_j41_fk3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first"
+                            >Wordsworth, in the fifth book of <cite>The Excursion</cite>, gives a
+                            minute description of this church.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">In the
+                            fifth book of <cite>The Excursion</cite>, Wordsworth gives a minute
+                            description of this church.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">Cast
+                            iron, when treated in a Bessemer converter, is changed into
+                            steel.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">By
+                            treatment in a Bessemer converter, cast iron is changed into
+                            steel.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>The objection is that the interposed phrase or clause needlessly
+            interrupts the natural order of the main clause. Usually, however, this objection does
+            not hold when the order is interrupted only by a relative clause or by an expression in
+            apposition. Nor does it hold in periodic sentences in which the interruption is a
+            deliberately used means of creating suspense (see examples under <xref
+                href="rule_01.dita"
+                >Rule 18</xref>).</p>
+        <p>The relative pronoun should come, as a rule, immediately after its antecedent.</p>
+        <table outputclass="example" id="table_k41_fk3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">There
+                            was a look in his eye that boded mischief.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">In his
+                            eye was a look that boded mischief.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">He
+                            wrote three articles about his adventures in Spain, which were published
+                            in <cite>Harper's Magazine</cite>.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">He
+                            published in <cite>Harper's Magazine</cite> three articles about his
+                            adventures in Spain.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">This is
+                            a portrait of Benjamin Harrison, grandson of William Henry Harrison, who
+                            became President in 1889.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">This
+                            is a portrait of Benjamin Harrison, grandson of William Henry Harrison.
+                            He became President in 1889.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>If the antecedent consists of a group of words, the relative comes at the end of the
+            group, unless this would cause ambiguity.</p>
+        <p>The Superintendent of the Chicago Division, who</p>
+        <table outputclass="example" id="table_l41_fk3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">A
+                            proposal to amend the Sherman Act, which has been variously
+                            judged.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">A
+                            proposal, which has been variously judged, to amend the Sherman
+                            Act.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first"
+                            > </entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">A
+                            proposal to amend the much-debated Sherman Act.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">The
+                            grandson of William Henry Harrison, who</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >William Henry Harrison's grandson, who</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>A noun in apposition may come between antecedent and relative, because in such a
+            combination no real ambiguity can arise.</p>
+        <p>The Duke of York, his brother, who was regarded with hostility by the Whigs</p>
+        <p>Modifiers should come, if possible, next to the word they modify. If several expressions
+            modify the same word, they should be so arranged that no wrong relation is
+            suggested.</p>
+        <table outputclass="example" id="table_m41_fk3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">All the
+                            members were not present.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">Not
+                            all the members were present.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">He only
+                            found two mistakes.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">He
+                            found only two mistakes.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">Major
+                            R. E. Joyce will give a lecture on Tuesday evening in Bailey Hall, to
+                            which the public is invited, on “My Experiences in Mesopotamia” at eight
+                            P. M. </entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">On
+                            Tuesday evening at eight <ph outputclass="small-caps all-upper"
+                                >P. M.</ph>, Major R. E. Joyce will give in Bailey Hall a lecture on
+                            “My Experiences in Mesopotamia.” The public is invited.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

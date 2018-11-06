@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cfx_gt4_z2b">
+    <title>Rule 10</title>
+    <shortdesc>Use the active voice.</shortdesc>
+    <conbody>
+        <p>The active voice is usually more direct and vigorous than the passive:</p>
+        <lq>I shall always remember my first visit to Boston. </lq>
+        <p>This is much better than</p>
+        <lq>My first visit to Boston will always be remembered by me. </lq>
+        <p>The latter sentence is less direct, less bold, and less concise. If the writer tries to
+            make it more concise by omitting “by me,”</p>
+        <lq>My first visit to Boston will always be remembered, </lq>
+        <p>it becomes indefinite: is it the writer, or some person undisclosed, or the world at
+            large, that will always remember this visit?</p>
+        <p>This rule does not, of course, mean that the writer should entirely discard the passive
+            voice, which is frequently convenient and sometimes necessary.</p>
+        <lq>The dramatists of the Restoration are little esteemed to-day.</lq>
+        <lq>Modern readers have little esteem for the dramatists of the Restoration. </lq>
+        <p>The first would be the right form in a paragraph on the dramatists of the Restoration;
+            the second, in a paragraph on the tastes of modern readers. The need of making a
+            particular word the subject of the sentence will often, as in these examples, determine
+            which voice is to be used.</p>
+        <p>As a rule, avoid making one passive depend directly upon another.</p>
+        <table outputclass="example" id="table_dxg_zj3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">Gold
+                            was not allowed to be exported.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">It was
+                            forbidden to export gold (The export of gold was prohibited).</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">He has
+                            been proved to have been seen entering the building.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">It has
+                            been proved that he was seen to enter the building.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>In both the examples above, before correction, the word properly related to the second
+            passive is made the subject of the first.</p>
+        <p>A common fault is to use as the subject of a passive construction a noun which expresses
+            the entire action, leaving to the verb no function beyond that of completing the
+            sentence.</p>
+        <table outputclass="example" id="table_exg_zj3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">A
+                            survey of this region was made in 1900.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">This
+                            region was surveyed in 1900.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first"
+                            >Mobilization of the army was rapidly effected.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">The
+                            army was rapidly mobilized.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first"
+                            >Confirmation of these reports cannot be obtained.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">These
+                            reports cannot be confirmed.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>Compare the sentence, “The export of gold was prohibited,” in which the predicate “was
+            prohibited” expresses something not implied in “export.”</p>
+        <p>The habitual use of the active voice makes for forcible writing. This is true not only in
+            narrative principally concerned with action, but in writing of any kind. Many a tame
+            sentence of description or exposition can be made lively and emphatic by substituting a
+            verb in the active voice for some such perfunctory expression as <i>there is</i>, or
+                <i>could be heard</i>.</p>
+        <table outputclass="example" id="table_fxg_zj3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">There
+                            were a great number of dead leaves lying on the ground.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">Dead
+                            leaves covered the ground.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">The
+                            sound of a guitar somewhere in the house could be heard.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >Somewhere in the house a guitar hummed sleepily.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">The
+                            reason that he left college was that his health became impaired.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >Failing health compelled him to leave college.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">It was
+                            not long before he was very sorry that he had said what he had.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">He
+                            soon repented his words.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_dhz_th3_z2b">
+    <title>Rule 1: Form the possessive singular of nouns by adding 's</title>
+    <shortdesc>Form the possessive singular of nouns by adding 's.</shortdesc>
+    <refbody>
+        <section>
+            <p>Follow this rule whatever the final consonant. Thus write,</p>
+            <pre>Charles's friend
+Burns's poems
+the witch's malice</pre>
+            <p>This is the usage of the United States Government Printing Office and of the Oxford
+                University Press.</p>
+            <p>Exceptions are the possessive of ancient proper names in <varname>-es</varname> and
+                    <varname>-is</varname>, the possessive <varname>Jesus'</varname>, and such forms
+                as <varname>for conscience' sake</varname>, <varname>for righteousness'
+                    sake</varname>. But such forms as <varname>Achilles' heel</varname>,
+                    <varname>Moses' laws</varname>, <varname>Isis' temple</varname> are commonly
+                replaced by</p>
+            <pre>the heel of Achilles
+the laws of Moses
+the temple of Isis</pre>
+            <p>The pronominal possessives <varname>hers</varname>, <varname>its</varname>,
+                    <varname>theirs</varname>, <varname>yours</varname>, and
+                    <varname>oneself</varname> have no apostrophe.</p>
+        </section>
+    </refbody>
+</reference>

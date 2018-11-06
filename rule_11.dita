@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cfx_gt4_z2b">
+    <title>Rule 11</title>
+    <shortdesc>Put statements in positive form.</shortdesc>
+    <conbody>
+        <p>Make definite assertions. Avoid tame, colorless, hesitating, non-committal language. Use
+            the word <i>not</i> as a means of denial or in antithesis, never as a means of
+            evasion.</p>
+        <table outputclass="example" id="table_q41_1k3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">He was
+                            not very often on time.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">He
+                            usually came late.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">He did
+                            not think that studying Latin was much use.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">He
+                            thought the study of Latin useless.</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">
+                            <cite>The Taming of the Shrew</cite> is rather weak in spots.
+                            Shakespeare does not portray Katharine as a very admirable character,
+                            nor does Bianca remain long in memory as an important character in
+                            Shakespeare's works.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">The
+                            women in <cite>The Taming of the Shrew</cite> are unattractive.
+                            Katharine is disagreeable, Bianca insignificant.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>The last example, before correction, is indefinite as well as negative. The corrected
+            version, consequently, is simply a guess at the writer's intention.</p>
+        <p>All three examples show the weakness inherent in the word <i>not</i>. Consciously or
+            unconsciously, the reader is dissatisfied with being told only what is not; he wishes to
+            be told what is. Hence, as a rule, it is better to express even a negative in positive
+            form.</p>
+        <table outputclass="example" id="table_r41_1k3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">not
+                            honest</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >dishonest</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">not
+                            important</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >trifling</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">did not
+                            remember</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >forgot</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">did not
+                            pay any attention to</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >ignored</entry>
+                    </row>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">did not
+                            have much confidence in</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second"
+                            >distrusted</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>The antithesis of negative and positive is strong:</p>
+        <lq>Not charity, but simple justice.</lq>
+        <lq>Not that I loved Caesar less, but Rome the more. </lq>
+        <p>Negative words other than <i>not</i> are usually strong:</p>
+        <lq>The sun never sets upon the British flag. </lq>
+    </conbody>
+</concept>

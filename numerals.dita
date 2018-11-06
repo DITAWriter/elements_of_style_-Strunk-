@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_chs_jwg_cfb">
+    <title>Numerals</title>
+    <shortdesc>Do not spell out dates or other serial numbers. Write them in figures or in Roman
+        notation, as may be appropriate.</shortdesc>
+    <conbody>
+        <lines>
+            August 9, 1918 (9 August 1918)
+            Rule 3
+            Chapter XII
+            352nd Infantry
+        </lines>
+    </conbody>
+</concept>

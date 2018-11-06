@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cfx_gt4_z2b">
+    <title>Rule 8</title>
+    <shortdesc>Make the paragraph the unit of composition: one paragraph to each topic.</shortdesc>
+    <conbody>
+        <p>If the subject on which you are writing is of slight extent, or if you intend to treat it
+            very briefly, there may be no need of subdividing it into topics. Thus a brief
+            description, a brief summary of a literary work, a brief account of a single incident, a
+            narrative merely outlining an action, the setting forth of a single idea, any one of
+            these is best written in a single paragraph. After the paragraph has been written,
+            examine it to see whether subdivision will not improve it.</p>
+        <p>Ordinarily, however, a subject requires subdivision into topics, each of which should be
+            made the subject of a paragraph. The object of treating each topic in a paragraph by
+            itself is, of course, to aid the reader. The beginning of each paragraph is a signal to
+            him that a new step in the development of the subject has been reached.</p>
+        <p>The extent of subdivision will vary with the length of the composition. For example, a
+            short notice of a book or poem might consist of a single paragraph. One slightly longer
+            might consist of two paragraphs:</p>
+        <ol id="ul_bjw_wj3_z2b">
+            <li>Account of the work.</li>
+            <li>Critical discussion.</li>
+        </ol>
+        <p>A report on a poem, written for a class in literature, might consist of seven
+            paragraphs:</p>
+        <ol id="ul_cjw_wj3_z2b">
+            <li>Facts of composition and publication.</li>
+            <li>Kind of poem; metrical form.</li>
+            <li>Subject.</li>
+            <li>Treatment of subject.</li>
+            <li>For what chiefly remarkable.</li>
+            <li>Wherein characteristic of the writer.</li>
+            <li>Relationship to other works.</li>
+        </ol>
+        <p>The contents of paragraphs C and D would vary with the poem.
+            Usually, paragraph C would indicate the actual or imagined circumstances of the poem
+            (the situation), if these call for explanation, and would then state the subject and
+            outline its development. If the poem is a narrative in the third person throughout,
+            paragraph C need contain no more than a concise summary of the action. Paragraph D would
+            indicate the leading ideas and show how they are made prominent, or would indicate what
+            points in the narrative are chiefly emphasized.</p>
+        <p>A novel might be discussed under the heads:</p>
+        <ol id="ul_djw_wj3_z2b">
+            <li>Setting.</li>
+            <li>Plot.</li>
+            <li>Characters.</li>
+            <li>Purpose.</li>
+        </ol>
+        <p>An historical event might be discussed under the heads:</p>
+        <ol id="ul_ejw_wj3_z2b">
+            <li>What led up to the event.</li>
+            <li>Account of the event.</li>
+            <li>What the event led up to.</li>
+        </ol>
+        <p>In treating either of these last two subjects, the writer would probably find it
+            necessary to subdivide one or more of the topics here given.</p>
+        <p>As a rule, single sentences should not be written or printed as paragraphs. An exception
+            may be made of sentences of transition, indicating the relation between the parts of an
+            exposition or argument. Frequent exceptions are also necessary in textbooks, guidebooks,
+            and other works in which many topics are treated briefly.</p>
+        <p>In dialogue, each speech, even if only a single word, is a paragraph by itself; that is,
+            a new paragraph begins with each change of speaker. The application of this rule, when
+            dialogue and narrative are combined, is best learned from examples in well-printed works
+            of fiction.</p>
+    </conbody>
+</concept>

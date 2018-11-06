@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cfx_gt4_z2b">
+    <title>Rule 2</title>
+    <shortdesc>In a series of three or more terms with a single conjunction, use a comma after each
+        term except the last.</shortdesc>
+    <conbody>
+        <p>Thus write,</p>
+        <lines>
+            red, white, and blue
+            gold, silver, or copper
+            He opened the letter, read it, and made a note of its contents.
+        </lines>
+        <p>This is also the usage of the Government Printing Office and of the Oxford University
+            Press.</p>
+        <p>In the names of business firms the last comma is omitted, as,</p>
+        <lines>
+            Brown, Shipley &amp; Co.
+        </lines>
+    </conbody>
+</concept>

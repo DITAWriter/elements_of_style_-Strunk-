@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_cfx_gt4_z2b">
+    <title>Rule 4</title>
+    <shortdesc>Place a comma before a conjunction introducing a co-ordinate clause.</shortdesc>
+    <conbody>
+        <lq> The early records of the city have disappeared, and the story of its first years can no
+            longer be reconstructed.</lq>
+        <lq>The situation is perilous, but there is still one chance of escape.</lq>
+        <p>Sentences of this type, isolated from their context, may seem to be in need of rewriting.
+            As they make complete sense when the comma is reached, the second clause has the
+            appearance of an afterthought. Further, <i>and</i> is the least specific of connectives.
+            Used between independent clauses, it indicates only that a relation exists between them
+            without defining that relation. In the example above, the relation is that of cause and
+            result. The two sentences might be rewritten:</p>
+        <lq>As the early records of the city have disappeared, the story of its first years can no
+            longer be reconstructed.</lq>
+        <lq>Although the situation is perilous, there is still one chance of escape.</lq>
+        <p>Or the subordinate clauses might be replaced by phrases:</p>
+        <lq>Owing to the disappearance of the early records of the city, the story of its first
+            years can no longer be reconstructed.</lq>
+        <lq>In this perilous situation, there is still one chance of escape. </lq>
+        <p>But a writer may err by making his sentences too uniformly compact and periodic, and an
+            occasional loose sentence prevents the style from becoming too formal and gives the
+            reader a certain relief. Consequently, loose sentences of the type first quoted are
+            common in easy, unstudied writing. But a writer should be careful not to construct too
+            many of his sentences after this pattern (see <xref href="rule_01.dita"
+            >Rule 14</xref>).</p>
+        <p>Two-part sentences of which the second member is introduced by <i>as</i> (in the sense of
+                <i>because</i>), <i>for</i>, <i>or</i>, <i>nor</i>, and <i>while</i> (in the sense
+            of <i>and at the same time</i>) likewise require a comma before the conjunction.</p>
+        <p>If the second member is introduced by an adverb, a semicolon, not a comma, is required
+            (see <xref href="rule_05.dita">Rule 5</xref>). The connectives <i>so</i> and <i>yet</i>
+            may be used either as adverbs or as conjunctions, accordingly as the second clause is
+            felt to be co-ordinate or subordinate; consequently either mark of punctuation may be
+            justified. But these uses of <i>so</i> (equivalent to <i>accordingly</i> or to <i>so
+                that</i>) are somewhat colloquial and should, as a rule, be avoided in writing. A
+            simple correction, usually serviceable, is to omit the word <i>so</i> and begin the
+            first clause with <i>as</i> or <i>since</i>:</p>
+        <table outputclass="example" id="table_uvy_5j3_z2b">
+            <tgroup cols="2">
+                <colspec colname="col1"/>
+                <colspec colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry morerows="0" namest="col1" nameend="col1" outputclass="first">I had
+                            never been in the place before; so I had difficulty in finding my way
+                            about.</entry>
+                        <entry morerows="0" namest="col2" nameend="col2" outputclass="second">As I
+                            had never been in the place before, I had difficulty in finding my way
+                            about.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>If a dependent clause, or an introductory phrase requiring to be set off by a comma,
+            precedes the second independent clause, no comma is needed after the conjunction.</p>
+        <lq>The situation is perilous, but if we are prepared to act promptly, there is still one
+            chance of escape. </lq>
+        <p>When the subject is the same for both clauses and is expressed only once, a comma is
+            required if the connective is <i>but</i>. If the connective is <i>and</i>, the comma
+            should be omitted if the relation between the two statements is close or immediate.</p>
+        <lq>I have heard his arguments, but am still unconvinced. He has had several years'
+            experience and is thoroughly competent. </lq>
+    </conbody>
+</concept>
