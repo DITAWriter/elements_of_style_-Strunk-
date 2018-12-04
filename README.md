@@ -5,7 +5,7 @@ The plan was to produce a version of this of this (early 20th-century) guide to 
 - a separate keystore file providing examples of how to use keyrefs for holding the names of publishers, and for links to the various "rules" contained in the document
 - sample DITA 1.3 glossary and associated glossentry topics
 
-This was actually a fairly straightforward conversion process, and ultimately it is not a very complicated document. 
+This was actually a fairly straightforward conversion process, and ultimately it is not a very complicated document. I made some decisions relating to the how to encapsulate the examples given by the other, and opted for either lq, lines or simpletables depending on cicumstance. I welcome feedback and suggested changes if you have any to offer.
 
 Feel free to lift any of this material as you see fit for creating your own internal style guide. Some of this material still holds up well today, though many of the examples will seem antequated or obscure to many, and are meant more for student essay writers than for technical writers. 
 
