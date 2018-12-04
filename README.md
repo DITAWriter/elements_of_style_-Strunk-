@@ -1,9 +1,11 @@
 # elements_of_style_-Strunk-
 A DITA-fied version of Strunk's original _Elements of Style_, derived from an out-of-copyright version published in 1920, made available on Project Gutenberg.
 
-The plan is to produce a version of this of this (early 20th-century) guide to style in DITA 1.3. Ultimately it should showcase:
-- how to use a keystore (TBD)
-- structuring DITA 1.3 glossaries (TBD)
-- serve as an example on how to approach a legacy conversion project (ongoing)
+The plan was to produce a version of this of this (early 20th-century) guide to style in DITA 1.3. It includes the following features:
+- a separate keystore file providing examples of how to use keyrefs for holding the names of publishers, and for links to the various "rules" contained in the document
+- sample DITA 1.3 glossary and associated glossentry topics
 
-This initial commit is _very_ rough, and there is still much work to do. 
+This was actually a fairly straightforward conversion process, and ultimately it is not a very complicated document. 
+
+Feel free to lift any of this material as you see fit for creating your own internal style guide. Some of this material still holds up well today, though many of the examples will seem antequated or obscure to many, and are meant more for student essay writers than for technical writers. 
+
