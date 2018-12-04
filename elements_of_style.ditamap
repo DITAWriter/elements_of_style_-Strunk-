@@ -7,6 +7,12 @@
     <bookmeta>
         <author>William Strunk, Jr.</author>
         <bookrights>
+            <copyrfirst>
+                <year>1918</year>
+            </copyrfirst>
+            <copyrlast>
+                <year>1920</year>
+            </copyrlast>
             <bookowner>
                 <organization>Project Gutenberg</organization>
                 <organization>DITAWriter.com</organization>
