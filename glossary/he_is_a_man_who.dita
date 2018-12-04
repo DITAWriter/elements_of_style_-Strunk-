@@ -3,8 +3,7 @@
 <glossentry id="he_is_a_man_who">
     <glossterm>He is a man who</glossterm>
     <glossdef>
-        <p>A common type of redundant expression; see <xref href="../rule_13.dita" format="dita"
-                >Rule 13</xref>.</p>
+        <p>A common type of redundant expression; see <xref keyref="rule_13">Rule 13</xref>.</p>
         <table id="table_bg1_f35_zfb">
             <tgroup cols="2">
                 <colspec colnum="1" colname="col1"/>
