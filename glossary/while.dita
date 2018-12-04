@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="while">
+    <glossterm>While</glossterm>
+    <glossdef>
+        <p>Avoid the indiscriminate use of this word for <i>and</i>, <i>but</i>, and
+            <i>although</i>. Many writers use it frequently as a substitute for <i>and</i> or
+                <i>but</i>, either from a mere desire to vary the connective, or from uncertainty
+            which of the two connectives is the more appropriate. In this use it is best replaced by
+            a semicolon.</p>
+        <table id="table_u4t_hl5_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>The office and salesrooms are on the ground floor, while the rest of
+                            the building is devoted to manufacturing.</entry>
+                        <entry>The office and salesrooms are on the ground floor; the rest of the
+                            building is devoted to manufacturing.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>Its use as a virtual equivalent of <i>although</i> is allowable in sentences where this
+            leads to no ambiguity or absurdity.</p>
+        <p>While I admire his energy, I wish it were employed in a better cause.</p>
+        <p>This is entirely correct, as shown by the paraphrase,</p>
+        <p>I admire his energy; at the same time I wish it were employed in a better cause.</p>
+        <p>Compare:</p>
+        <table id="table_v4t_hl5_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>While the temperature reaches 90 or 95 degrees in the daytime, the
+                            nights are often chilly.</entry>
+                        <entry>Although the temperature reaches 90 or 95 degrees in the daytime, the
+                            nights are often chilly.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>The paraphrase,</p>
+        <p>The temperature reaches 90 or 95 degrees in the daytime; at the same time the nights are
+            often chilly,</p>
+        <p>shows why the use of <i>while</i> is incorrect.</p>
+        <p>In general, the writer will do well to use <i>while</i> only with strict literalness, in
+            the sense of <i>during the time that</i>.</p>
+    </glossdef>
+</glossentry>

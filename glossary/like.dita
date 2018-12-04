@@ -2,5 +2,24 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="like">
     <glossterm>Like</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Not to be misused for <i>as</i>. <i>Like</i> governs nouns and pronouns; before phrases
+            and clauses the equivalent word is <i>as</i>.</p>
+        <table id="table_srb_j35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>We spent the evening like in the old days.</entry>
+                        <entry>We spent the evening as in the old days.</entry>
+                    </row>
+                    <row>
+                        <entry>He thought like I did.</entry>
+                        <entry>He thought as I did (like me).</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </glossdef>
 </glossentry>

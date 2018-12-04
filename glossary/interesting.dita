@@ -2,5 +2,25 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="interesting">
     <glossterm>Interesting</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Avoid this word as a perfunctory means of introduction. Instead of announcing that what
+            you are about to tell is interesting, make it so.</p>
+        <table id="table_g5r_g35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>An interesting story is told of</entry>
+                        <entry>(Tell the story without preamble.)</entry>
+                    </row>
+                    <row>
+                        <entry>In connection with the anticipated visit of Mr. B. to America, it is
+                            interesting to recall that he</entry>
+                        <entry>Mr. B., who it is expected will soon visit America</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </glossdef>
 </glossentry>

@@ -2,5 +2,12 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="compare">
     <glossterm>Compare</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>To <i>compare to</i> is to point out or imply resemblances, between objects regarded as
+            essentially of different order; to <i>compare with</i> is mainly to point out
+            differences, between objects regarded as essentially of the same order. Thus life has
+            been compared to a pilgrimage, to a drama, to a battle; Congress may be compared with
+            the British Parliament. Paris has been compared to ancient Athens; it may be compared
+            with modern London.</p>
+    </glossdef>
 </glossentry>

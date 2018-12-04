@@ -2,5 +2,23 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="possess">
     <glossterm>Possess</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p> Not to be used as a mere substitute for <i>have</i> or <i>own</i>.</p>
+        <table id="table_bsw_q35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>He possessed great courage.</entry>
+                        <entry>He had great courage (was very brave).</entry>
+                    </row>
+                    <row>
+                        <entry>He was the fortunate possessor of</entry>
+                        <entry>He owned</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </glossdef>
 </glossentry>

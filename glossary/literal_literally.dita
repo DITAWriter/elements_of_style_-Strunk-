@@ -2,5 +2,23 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="literal_literally">
     <glossterm>Literal, literally</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Often incorrectly used in support of exaggeration or violent metaphor.</p>
+        <table id="table_owk_k35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>A literal flood of abuse.</entry>
+                        <entry>A flood of abuse.</entry>
+                    </row>
+                    <row>
+                        <entry>Literally dead with fatigue</entry>
+                        <entry>Almost dead with fatigue (dead tired)</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </glossdef>
 </glossentry>

@@ -2,5 +2,10 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="claim_vb">
     <glossterm>Claim, vb.</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>With object-noun, means <i>lay claim to</i>. May be used with a dependent clause if this
+            sense is clearly involved: “He claimed that he was the sole surviving heir.” (But even
+            here, “claimed to be” would be better.) Not to be used as a substitute for
+                <i>declare</i>, <i>maintain</i>, or <i>charge</i>.</p>
+    </glossdef>
 </glossentry>

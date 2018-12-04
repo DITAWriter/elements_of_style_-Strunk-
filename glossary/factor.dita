@@ -2,5 +2,27 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="factor">
     <glossterm>Factor</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>A hackneyed word; the expressions of which it forms part can usually be replaced by
+            something more direct and idiomatic.</p>
+        <table id="table_fsb_c35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>His superior training was the great factor in his winning the
+                            match.</entry>
+                        <entry>He won the match by being better trained.</entry>
+                    </row>
+                    <row>
+                        <entry>Heavy artillery has become an increasingly important factor in
+                            deciding battles.</entry>
+                        <entry>Heavy artillery has played a constantly larger part in deciding
+                            battles.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </glossdef>
 </glossentry>

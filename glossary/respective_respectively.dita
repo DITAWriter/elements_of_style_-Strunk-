@@ -2,5 +2,28 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="respective_respectively">
     <glossterm>Respective, respectively</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>These words may usually be omitted with advantage.</p>
+        <table id="table_fj1_s35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>Works of fiction are listed under the names of their respective
+                            authors.</entry>
+                        <entry>Works of fiction are listed under the names of their authors.</entry>
+                    </row>
+                    <row>
+                        <entry>The one mile and two mile runs were won by Jones and Cummings
+                            respectively.</entry>
+                        <entry>The one mile and two mile runs were won by Jones and by
+                            Cummings.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>In some kinds of formal writing, as geometrical proofs, it may be necessary to use
+                <i>respectively</i>, but it should not appear in writing on ordinary subjects.</p>
+    </glossdef>
 </glossentry>

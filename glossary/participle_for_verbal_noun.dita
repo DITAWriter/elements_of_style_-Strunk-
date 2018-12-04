@@ -2,5 +2,62 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="participle_for_verbal_noun">
     <glossterm>Participle for verbal noun</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <table id="table_rh2_p35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>Do you mind me asking a question?</entry>
+                        <entry>Do you mind my asking a question?</entry>
+                    </row>
+                    <row>
+                        <entry>There was little prospect of the Senate accepting even this
+                            compromise.</entry>
+                        <entry>There was little prospect of the Senate's accepting even this
+                            compromise.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>In the left-hand column, <i>asking</i> and <i>accepting</i> are present participles; in
+            the right-hand column, they are verbal nouns (gerunds). The construction shown in the
+            left-hand column is occasionally found, and has its defenders. Yet it is easy to see
+            that the second sentence has to do not with a prospect of the Senate, but with a
+            prospect of accepting. In this example, at least, the construction is plainly
+            illogical.</p>
+        <p>As the authors of The King's English point out, there are sentences apparently, but not
+            really, of this type, in which the possessive is not called for.</p>
+        <p>I cannot imagine Lincoln refusing his assent to this measure.</p>
+        <p>In this sentence, what the writer cannot imagine is Lincoln himself, in the act of
+            refusing his assent. Yet the meaning would be virtually the same, except for a slight
+            loss of vividness, if he had written,</p>
+        <p>I cannot imagine Lincoln's refusing his assent to this measure.</p>
+        <p>By using the possessive, the writer will always be on the safe side.</p>
+        <p>In the examples above, the subject of the action is a single, unmodified term,
+            immediately preceding the verbal noun, and the construction is as good as any that could
+            be used. But in any sentence in which it is a mere clumsy substitute for something
+            simpler, or in which the use of the possessive is awkward or impossible, should of
+            course be recast.</p>
+        <table id="table_sh2_p35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>In the event of a reconsideration of the whole matter's becoming
+                            necessary</entry>
+                        <entry>If it should become necessary to reconsider the whole matter</entry>
+                    </row>
+                    <row>
+                        <entry>There was great dissatisfaction with the decision of the arbitrators
+                            being favorable to the company.</entry>
+                        <entry>There was great dissatisfaction that the arbitrators should have
+                            decided in favor of the company.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </glossdef>
 </glossentry>

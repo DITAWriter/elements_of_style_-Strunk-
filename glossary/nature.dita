@@ -2,5 +2,24 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="nature">
     <glossterm>Nature</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Often simply redundant, used like <i><xref href="character.dita" format="dita"
+                    >character</xref></i>.</p>
+        <table id="table_efz_l35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>Acts of a hostile nature</entry>
+                        <entry>Hostile acts</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>Often vaguely used in such expressions as a “lover of nature;” “poems about nature.”
+            Unless more specific statements follow, the reader cannot tell whether the poems have to
+            do with natural scenery, rural life, the sunset, the untracked wilderness, or the habits
+            of squirrels.</p>
+    </glossdef>
 </glossentry>

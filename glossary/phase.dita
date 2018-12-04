@@ -2,5 +2,20 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="glossentry_o5m_fth_cfb">
     <glossterm>Phase</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Means a stage of transition or development: “the phases of the moon;” “the last phase.”
+            Not to be used for <i>aspect</i> or <i>topic</i>.</p>
+        <table id="table_omk_q35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>Another phase of the subject</entry>
+                        <entry>Another point (another question)</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </glossdef>
 </glossentry>

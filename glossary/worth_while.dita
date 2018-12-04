@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="worth_while">
+    <glossterm>Worth while</glossterm>
+    <glossdef>
+        <p>Overworked as a term of vague approval and (with <i>not</i>) of disapproval. Strictly
+            applicable only to actions: “Is it worth while to telegraph?”</p>
+        <table id="table_t25_3l5_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>His books are not worth while.</entry>
+                        <entry>His books are not worth reading (are not worth one's while to read;
+                            do not repay reading; are worthless).</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>The use of <i>worth while</i> before a noun (“a worth while story”) is indefensible.</p>
+    </glossdef>
+</glossentry>

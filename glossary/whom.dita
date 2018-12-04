@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="whom">
+    <glossterm>Whom</glossterm>
+    <glossdef>
+        <p>Often incorrectly used for <i>who</i> before <i>he said</i> or similar expressions, when
+            it is really the subject of a following verb.</p>
+        <table id="table_hyf_3l5_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>His brother, whom he said would send him the money</entry>
+                        <entry>His brother, who he said would send him the money</entry>
+                    </row>
+                    <row>
+                        <entry>The man whom he thought was his friend</entry>
+                        <entry>The man who (that) he thought was his friend (whom he thought his
+                            friend)</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </glossdef>
+</glossentry>

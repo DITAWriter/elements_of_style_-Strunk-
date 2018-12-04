@@ -2,5 +2,7 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="prove">
     <glossterm>Prove</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>The past participle is <i>proved</i>.</p>
+    </glossdef>
 </glossentry>

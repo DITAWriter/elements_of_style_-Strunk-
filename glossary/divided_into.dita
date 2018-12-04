@@ -2,5 +2,8 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="divided_into">
     <glossterm>Divided into</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Not to be misused for <i>composed of</i>. The line is sometimes difficult to draw;
+            doubtless plays are divided into acts, but poems are composed of stanzas.</p>
+    </glossdef>
 </glossentry>

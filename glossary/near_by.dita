@@ -2,5 +2,10 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="near_by">
     <glossterm>Near by</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Adverbial phrase, not yet fully accepted as good English, though the analogy of <i>close
+                by</i> and <i>hard by</i> seems to justify it. <i>Near</i>, or <i>near at hand</i>,
+            is as good, if not better.</p>
+        <p>Not to be used as an adjective; use <i>neighboring</i>.</p>
+    </glossdef>
 </glossentry>

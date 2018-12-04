@@ -2,5 +2,24 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="feature">
     <glossterm>Feature</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Another hackneyed word; like <i>factor</i> it usually adds nothing to the sentence in
+            which it occurs.</p>
+        <table id="table_ert_c35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>A feature of the entertainment especially worthy of mention was the
+                            singing of Miss A.</entry>
+                        <entry>(Better use the same number of words to tell what Miss A. sang, or if
+                            the programme has already been given, to tell how she sang.)</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>As a verb, in the advertising sense of <i>offer as a special attraction</i>, to be
+            avoided.</p>
+    </glossdef>
 </glossentry>

@@ -2,5 +2,10 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="kind_of">
     <glossterm>Kind of</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Not to be used as a substitute for <i>rather</i> (before adjectives and verbs), or except
+            in familiar style, for <i>something like</i> (before nouns). Restrict it to its literal
+            sense: “Amber is a kind of fossil resin;” “I dislike that kind of notoriety.” The same
+            holds true of <i>sort of</i>.</p>
+    </glossdef>
 </glossentry>

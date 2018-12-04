@@ -2,5 +2,12 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="effect">
     <glossterm>Effect</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>As noun, means <i>result</i>; as verb, means <i>to bring about</i>, <i>accomplish</i>
+            (not to be confused with <i>affect</i>, which means “to influence”).</p>
+        <p>As noun, often loosely used in perfunctory writing about fashions, music, painting, and
+            other arts: “an Oriental effect;” “effects in pale green;” “very delicate effects;”
+            “broad effects;” “subtle effects;” “a charming effect was produced by.” The writer who
+            has a definite meaning to express will not take refuge in such vagueness.</p>
+    </glossdef>
 </glossentry>

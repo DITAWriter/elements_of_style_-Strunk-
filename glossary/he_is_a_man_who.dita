@@ -2,5 +2,24 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="he_is_a_man_who">
     <glossterm>He is a man who</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>A common type of redundant expression; see <xref href="../rule_13.dita" format="dita"
+                >Rule 13</xref>.</p>
+        <table id="table_bg1_f35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>He is a man who is very ambitious.</entry>
+                        <entry>He is very ambitious.</entry>
+                    </row>
+                    <row>
+                        <entry>Spain is a country which I have always wanted to visit.</entry>
+                        <entry>I have always wanted to visit Spain.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </glossdef>
 </glossentry>

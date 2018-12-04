@@ -2,5 +2,7 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="sort_of">
     <glossterm>Sort of</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>See under <b><xref href="kind_of.dita" format="dita">Kind of</xref></b>.</p>
+    </glossdef>
 </glossentry>

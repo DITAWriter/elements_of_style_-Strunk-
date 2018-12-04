@@ -2,5 +2,8 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="different_than">
     <glossterm>Different than</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Not permissible. Substitute <i>different from</i>, <i>other than</i>, or
+            <i>unlike</i>.</p>
+    </glossdef>
 </glossentry>

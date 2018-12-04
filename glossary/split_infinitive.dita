@@ -2,5 +2,21 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="split_infinitive">
     <glossterm>Split Infinitive</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>There is precedent from the fourteenth century downward for interposing an adverb between
+                <i>to</i> and the infinitive which it governs, but the construction is in disfavor
+            and is avoided by nearly all careful writers.</p>
+        <table id="table_gxf_v35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>To diligently inquire</entry>
+                        <entry>To inquire diligently</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </glossdef>
 </glossentry>

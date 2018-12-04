@@ -2,5 +2,25 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="less">
     <glossterm>Less</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Should not be misused for <i>fewer</i>.</p>
+        <table id="table_a1n_335_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>He had less men than in the previous campaign</entry>
+                        <entry>He had fewer men than in the previous campaign</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p><i>Less</i> refers to quantity, <i>fewer</i> to number. “His troubles are less than mine”
+            means “His troubles are not so great as mine.” “His troubles are fewer than mine” means
+            “His troubles are not so numerous as mine.” It is, however, correct to say, “The signers
+            of the petition were less than a hundred,” where the round number <i>a hundred</i> is
+            something like a collective noun, and <i>less</i> is thought of as meaning a less
+            quantity or amount.</p>
+    </glossdef>
 </glossentry>

@@ -2,5 +2,25 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="however">
     <glossterm>However</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>In the meaning <i>nevertheless</i>, not to come first in its sentence or clause.</p>
+        <table id="table_zxc_g35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>The roads were almost impassable. However, we at last succeeded in
+                            reaching camp.</entry>
+                        <entry>The roads were almost impassable. At last, however, we succeeded in
+                            reaching camp.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p>When <i>however</i> comes first, it means <i>in whatever way</i> or <i>to whatever
+                extent</i>.</p>
+        <p>However you advise him, he will probably do as he thinks best.</p>
+        <p>However discouraging the prospect, he never lost heart.</p>
+    </glossdef>
 </glossentry>

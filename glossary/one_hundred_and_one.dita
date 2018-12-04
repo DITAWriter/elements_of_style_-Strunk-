@@ -2,5 +2,8 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="one_hundred_and_one">
     <glossterm>One hundred and one</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Retain the <i>and</i> in this and similar expressions, in accordance with the unvarying
+            usage of English prose from Old English times.</p>
+    </glossdef>
 </glossentry>

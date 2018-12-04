@@ -2,5 +2,26 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="line_along_these_lines">
     <glossterm>Line, along these lines</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p><i>Line</i> in the sense of <i>course of procedure</i>, <i>conduct</i>, <i>thought</i>,
+            is allowable, but has been so much overworked, particularly in the phrase <i>along these
+                lines</i>, that a writer who aims at freshness or originality had better discard it
+            entirely.</p>
+        <table id="table_p2r_j35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>Mr. B. also spoke along the same lines.</entry>
+                        <entry>Mr. B. also spoke, to the same effect.</entry>
+                    </row>
+                    <row>
+                        <entry>He is studying along the line of French literature.</entry>
+                        <entry>He is studying French literature.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </glossdef>
 </glossentry>

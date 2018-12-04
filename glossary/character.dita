@@ -2,5 +2,21 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="character">
     <glossterm>Character</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Often simply redundant, used from a mere habit of wordiness.</p>
+        <p>
+            <table id="table_rgb_ph5_zfb">
+                <tgroup cols="2">
+                    <colspec colnum="1" colname="col1"/>
+                    <colspec colnum="2" colname="col2"/>
+                    <tbody>
+                        <row>
+                            <entry>Acts of a hostile character</entry>
+                            <entry>Hostile acts</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </glossdef>
 </glossentry>

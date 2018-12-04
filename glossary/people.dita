@@ -2,5 +2,9 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="people">
     <glossterm>People</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p><i>The people</i> is a political term, not to be confused with <i>the public</i>. From
+            the people comes political support or opposition; from the public comes artistic
+            appreciation or commercial patronage.</p>
+    </glossdef>
 </glossentry>

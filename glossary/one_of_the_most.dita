@@ -2,5 +2,24 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="one_of_the_most">
     <glossterm>One of the most</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Avoid beginning essays or paragraphs with this formula, as, “One of the most interesting
+            developments of modern science is, etc.;” “Switzerland is one of the most interesting
+            countries of Europe.” There is nothing wrong in this; it is simply threadbare and
+            forcible-feeble.</p>
+        <p>A common blunder is to use a singular verb in a relative clause following this or a
+            similar expression, when the relative is the subject.</p>
+        <table id="table_csz_n35_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>One of the ablest men that has attacked this problem.</entry>
+                        <entry>One of the ablest men that have attacked this problem.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </glossdef>
 </glossentry>

@@ -2,5 +2,12 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="glossentry_ckw_gsh_cfb">
     <glossterm>Etc.</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Equivalent to <i>and the rest</i>, <i>and so forth</i>, and hence not to be used if one
+            of these would be insufficient, that is, if the reader would be left in doubt as to any
+            important particulars. Least open to objection when it represents the last terms of a
+            list already given in full, or immaterial words at the end of a quotation.</p>
+        <p>At the end of a list introduced by <i>such as</i>, <i>for example</i>, or any similar
+            expression, <i>etc.</i> is incorrect.</p>
+    </glossdef>
 </glossentry>

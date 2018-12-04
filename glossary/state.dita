@@ -2,5 +2,8 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="state">
     <glossterm>State</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>Not to be used as a mere substitute for <i>say</i>, <i>remark</i>. Restrict it to the
+            sense of <i>express fully or clearly</i>, as, “He refused to state his objections.”</p>
+    </glossdef>
 </glossentry>

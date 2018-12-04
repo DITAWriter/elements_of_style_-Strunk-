@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
+<glossentry id="would">
+    <glossterm>Would</glossterm>
+    <glossdef>
+        <p>A conditional statement in the first person requires <i>should</i>, not <i>would</i>.</p>
+        <p>I should not have succeeded without his help.</p>
+        <p>The equivalent of <i>shall</i> in indirect quotation after a verb in the past tense is
+                <i>should</i>, not <i>would</i>.</p>
+        <p>He predicted that before long we should have a great surprise.</p>
+        <p>To express habitual or repeated action, the past tense, without <i>would</i>, is usually
+            sufficient, and from its brevity, more emphatic.</p>
+        <table id="table_zfs_jl5_zfb">
+            <tgroup cols="2">
+                <colspec colnum="1" colname="col1"/>
+                <colspec colnum="2" colname="col2"/>
+                <tbody>
+                    <row>
+                        <entry>Once a year he would visit the old mansion.</entry>
+                        <entry>Once a year he visited the old mansion.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </glossdef>
+</glossentry>

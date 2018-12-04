@@ -2,5 +2,7 @@
 <!DOCTYPE glossentry PUBLIC "-//OASIS//DTD DITA Glossary//EN" "glossary.dtd">
 <glossentry id="should">
     <glossterm>Should</glossterm>
-    <glossdef></glossdef>
+    <glossdef>
+        <p>See under <b><xref href="would.dita" format="dita">Would</xref></b>.</p>
+    </glossdef>
 </glossentry>
