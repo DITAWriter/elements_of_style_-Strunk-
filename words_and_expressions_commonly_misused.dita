@@ -15,7 +15,7 @@
             But if he finds that in a moment of inadvertence he has used one of them, his proper
             course will probably be not to patch up the sentence by substituting one word or set of
             words for another, but to recast it completely, as illustrated in a number of examples
-            below and in others under Rules <xref href="rule_12.dita" format="dita">12</xref> and
-                <xref href="rule_13.dita" format="dita">13</xref>.)</p>
+            below and in others under Rules <xref keyref="rule_12">12</xref> and <xref
+                keyref="rule_13">13</xref>.)</p>
     </conbody>
 </concept>

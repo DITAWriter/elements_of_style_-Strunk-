@@ -106,8 +106,11 @@
                 </tbody>
             </tgroup>
         </table>
-        <p>See also under <i>case</i>, <i>character</i>, <i>nature</i>, <i>system</i> in <xref
-                href="a_few_matters_of_form.dita">Chapter V</xref>.</p>
+        <p>See also under <xref href="glossary/case.dita"><i>case</i></xref>, <xref
+                href="glossary/character.dita"><i>character</i></xref>, <xref
+                href="glossary/nature.dita"><i>nature</i></xref>, <xref href="glossary/system.dita"
+                    ><i>system</i></xref> in <xref href="a_few_matters_of_form.dita"
+                >Chapter V</xref>.</p>
         <p>
             <i>Who is</i>, <i>which was</i>, and the like are often superfluous.</p>
         <table outputclass="example" id="table_mc3_bk3_z2b">
@@ -131,8 +134,8 @@
             </tgroup>
         </table>
         <p>As positive statement is more concise than negative, and the active voice more concise
-            than the passive, many of the examples given under Rules <xref href="rule_01.dita"
-                >11</xref> and <xref href="rule_01.dita">12</xref> illustrate this rule as well.</p>
+            than the passive, many of the examples given under Rules <xref keyref="rule_11"
+                >11</xref> and <xref keyref="rule_12">12</xref> illustrate this rule as well.</p>
         <p>A common violation of conciseness is the presentation of a single complex idea, step by
             step, in a series of sentences or independent clauses which might to advantage be
             combined into one.</p>

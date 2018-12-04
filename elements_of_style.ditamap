@@ -13,16 +13,13 @@
             </bookowner>
         </bookrights>
     </bookmeta>
-    <frontmatter/>
-    <!--
+
     <frontmatter collection-type="sequence">
-        <mapref href="keystore.map" processing-role="resource-only"/>
-        <topicref href="front.dita" type="topic" format="dita"/>
+        <mapref href="keystore.ditamap" processing-role="resource-only"/>
         <booklists>
             <toc/>
         </booklists>
     </frontmatter>        
--->
     <chapter href="introductory.dita"/>
     <chapter href="elementary_rules_of_usage.dita">
         <topicref href="rule_01.dita"/>

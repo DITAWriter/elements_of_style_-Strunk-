@@ -4,97 +4,66 @@
     <title>Rule 3</title>
     <shortdesc>Enclose parenthetic expressions between commas.</shortdesc>
     <conbody>
-        <lq>
-        The best way to see a country, unless you are pressed for time, is to travel on foot.
-        </lq>
+        <lq> The best way to see a country, unless you are pressed for time, is to travel on foot. </lq>
         <p>This rule is difficult to apply; it is frequently hard to decide whether a single word,
-            such as <i>however</i>, or a brief phrase, is or is not parenthetic. If the
-            interruption to the flow of the sentence is but slight, the writer may safely omit the
-            commas. But whether the interruption be slight or considerable, he must never insert one
-            comma and omit the other. Such punctuation as</p>
-        <lq>
-        Marjorie's husband, Colonel Nelson paid us a visit yesterday,
-        </lq>
-<p>or</p>
-        <lq>
-        My brother you will be pleased to hear, is now in perfect health,
-        </lq>
+            such as <i>however</i>, or a brief phrase, is or is not parenthetic. If the interruption
+            to the flow of the sentence is but slight, the writer may safely omit the commas. But
+            whether the interruption be slight or considerable, he must never insert one comma and
+            omit the other. Such punctuation as</p>
+        <lq> Marjorie's husband, Colonel Nelson paid us a visit yesterday, </lq>
+        <p>or</p>
+        <lq> My brother you will be pleased to hear, is now in perfect health, </lq>
         <p>is indefensible.</p>
         <p>If a parenthetic expression is preceded by a conjunction, place the first comma before
             the conjunction, not after it.</p>
-            <lq>
-        He saw us coming, and unaware that we had learned of his treachery, greeted us with a smile.
-            </lq>
+        <lq> He saw us coming, and unaware that we had learned of his treachery, greeted us with a
+            smile. </lq>
         <p>Always to be regarded as parenthetic and to be enclosed between commas (or, at the end of
             the sentence, between comma and period) are the following:</p>
         <ol>
-        <li>the year, when forming part of a date, and the day of the month, when following the
-            day of the week:
-            <lines>
-        February to July, 1916.
-        April 6, 1917.
-        Monday, November 11, 1918.
-            </lines>
-        </li>
-        <li>the abbreviations <i>etc.</i> and <i>jr.</i>
-        </li>
-        <li>non-restrictive relative clauses, that is, those which do not serve to identify or
-            define the antecedent noun, and similar clauses introduced by conjunctions indicating
-            time or place.</li>
+            <li>the year, when forming part of a date, and the day of the month, when following the
+                day of the week: <lq>February to July, 1916.</lq>
+                <lq>April 6, 1917.</lq>
+                <lq>Monday, November 11, 1918.</lq>
+            </li>
+            <li>the abbreviations <i>etc.</i> and <i>jr.</i>
+            </li>
+            <li>non-restrictive relative clauses, that is, those which do not serve to identify or
+                define the antecedent noun, and similar clauses introduced by conjunctions
+                indicating time or place.</li>
         </ol>
-        <p>The audience, which had at first been indifferent, became more and more interested.</p>
-        <p>In this sentence the clause introduced by
-                <i>which</i> does not serve to tell which of several possible audiences
-            is meant; what audience is in question is supposed to be already known. The clause adds,
-            parenthetically, a statement supplementing that in the main clause. The sentence is
-            virtually a combination of two statements which might have been made independently:</p>
-        <lq>
-            The audience had at first been indifferent. It became more and more interested.
-        </lq>
-        <p>Compare the restrictive relative clause, not set off by commas,
-            in the sentence,</p>
-        <lq>
-            The candidate who best meets these requirements will obtain the place.
-        </lq>
-        <p>Here the clause introduced by <i>who</i> does serve
-            to tell which of several possible candidates is meant; the sentence cannot be split up
-            into two independent statements.</p>
+        <lq>The audience, which had at first been indifferent, became more and more interested.</lq>
+        <p>In this sentence the clause introduced by <i>which</i> does not serve to tell which of
+            several possible audiences is meant; what audience is in question is supposed to be
+            already known. The clause adds, parenthetically, a statement supplementing that in the
+            main clause. The sentence is virtually a combination of two statements which might have
+            been made independently:</p>
+        <lq> The audience had at first been indifferent. It became more and more interested. </lq>
+        <p>Compare the restrictive relative clause, not set off by commas, in the sentence,</p>
+        <lq> The candidate who best meets these requirements will obtain the place. </lq>
+        <p>Here the clause introduced by <i>who</i> does serve to tell which of several possible
+            candidates is meant; the sentence cannot be split up into two independent
+            statements.</p>
         <p>The difference in punctuation in the two sentences following is based on the same
             principle:</p>
-        <lq>
-            Nether Stowey, where Coleridge wrote <cite>The Rime of the Ancient Mariner</cite>, is a
-            few miles from Bridgewater.
-        </lq>
-        <p>The day will come when you will admit your mistake.</p>
-        <p>Nether Stowey is completely identified by its name; the statement
-            about Coleridge is therefore supplementary and parenthetic. The <i>day</i> spoken of is
-            identified only by the dependent clause, which is therefore restrictive.</p>
+        <lq> Nether Stowey, where Coleridge wrote <cite>The Rime of the Ancient Mariner</cite>, is a
+            few miles from Bridgewater. </lq>
+        <lq>The day will come when you will admit your mistake.</lq>
+        <p>Nether Stowey is completely identified by its name; the statement about Coleridge is
+            therefore supplementary and parenthetic. The <i>day</i> spoken of is identified only by
+            the dependent clause, which is therefore restrictive.</p>
         <p>Similar in principle to the enclosing of parenthetic expressions between commas is the
             setting off by commas of phrases or dependent clauses preceding or following the main
             clause of a sentence.</p>
-        <lq>
-            Partly by hard fighting, partly by diplomatic skill, they enlarged their dominions to the
-            east, and rose to royal rank with the possession of Sicily, exchanged afterwards for
-            Sardinia.
-        </lq>
-        <!-- turn the following into a reltable -->
-        <p>Other illustrations may be found in sentences quoted under Rules
-                <xref
-                href="rule_04.dita"
-                >4</xref>, <xref
-                href="rule_05.dita"
-                >5</xref>, <xref
-                href="rule_06.dita"
-                >6</xref>, <xref
-                href="rule_07.dita"
-                >7</xref>, <xref
-                href="rule_01.dita"
-                >16</xref>, and <xref
-                href="rule_01.dita"
-                >18</xref>.</p>
+        <lq> Partly by hard fighting, partly by diplomatic skill, they enlarged their dominions to
+            the east, and rose to royal rank with the possession of Sicily, exchanged afterwards for
+            Sardinia. </lq>
+
+        <p>Other illustrations may be found in sentences quoted under Rules <xref keyref="rule_04"
+                >4</xref>, <xref keyref="rule_05">5</xref>, <xref keyref="rule_06">6</xref>, <xref
+                keyref="rule_07">7</xref>, <xref keyref="rule_16">16</xref>, and <xref
+                keyref="rule_18">18</xref>. </p>
         <p>The writer should be careful not to set off independent clauses by commas: see under
-                <xref
-                href="rule_05.dita"
-                >Rule 5</xref>.</p>
+                <xref keyref="rule_05">Rule 5</xref>.</p>
     </conbody>
 </concept>

@@ -12,8 +12,8 @@
         <p>The unskillful writer often violates this principle, from a mistaken belief that he
             should constantly vary the form of his expressions. It is true that in repeating a
             statement in order to emphasize it he may have need to vary its form. For illustration,
-            see the paragraph from Stevenson quoted under Rule 9. But apart from this, he should
-            follow the principle of parallel construction.</p>
+            see the paragraph from Stevenson quoted under <xref keyref="rule_09">Rule 9</xref>. But
+            apart from this, he should follow the principle of parallel construction.</p>
         <table outputclass="example" id="table_nwn_ck3_z2b">
             <tgroup cols="2">
                 <colspec colname="col1"/>
@@ -95,8 +95,8 @@
                 </tbody>
             </tgroup>
         </table>
-        <p>See also the third example under <xref href="rule_01.dita">Rule 12</xref> and the last
-            under <xref href="rule_01.dita">Rule 13</xref>.</p>
+        <p>See also the third example under <xref keyref="rule_12">Rule 12</xref> and the last under
+                <xref keyref="rule_13">Rule 13</xref>.</p>
         <p>It may be asked, what if a writer needs to express a very large number of similar ideas,
             say twenty? Must he write twenty consecutive sentences of the same pattern? On closer
             examination he will probably find that the difficulty is imaginary, that his twenty

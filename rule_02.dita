@@ -6,16 +6,12 @@
         term except the last.</shortdesc>
     <conbody>
         <p>Thus write,</p>
-        <lines>
-            red, white, and blue
-            gold, silver, or copper
-            He opened the letter, read it, and made a note of its contents.
-        </lines>
+        <lq>red, white, and blue</lq>
+        <lq>gold, silver, or copper</lq>
+        <lq>He opened the letter, read it, and made a note of its contents.</lq>
         <p>This is also the usage of the Government Printing Office and of the Oxford University
             Press.</p>
         <p>In the names of business firms the last comma is omitted, as,</p>
-        <lines>
-            Brown, Shipley &amp; Co.
-        </lines>
+        <lq>Brown, Shipley &amp; Co.</lq>
     </conbody>
 </concept>
